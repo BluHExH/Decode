@@ -1,0 +1,35 @@
+install. 👻🖕
+
+ pkg update && pkg upgrade -y
+
+pkg install python -y
+
+pkg install python3 -y
+
+pkg install python-pip -y
+
+pkg install git -y
+
+pip install pyfiglet
+
+pip install pyyaml
+
+
+
+pip install base64
+
+pkg install curl -y
+pkg install termux-api -y
+
+
+git clone https://github.com/BluHExH/Decode.git
+
+cd 
+
+ls
+
+
+cd Decode
+
+python sahex.py
+
