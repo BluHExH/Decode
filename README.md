@@ -41,6 +41,8 @@ pip install pyyaml
 pip install base64
 
 pkg install curl -y
+
+
 pkg install termux-api -y
 
 
